@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
+//This Program will be the entry point for banking REST Api
 namespace MicroRabbit.Banking.Api
 {
     public class Program
